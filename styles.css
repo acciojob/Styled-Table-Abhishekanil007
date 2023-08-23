@@ -1,1 +1,34 @@
 /* your code */
+
+
+th, td{
+	padding: 15px
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.table-container{
+	border:1px solid black;
+	border-radius:10px;
+	overflow:hidden;
+}
+
+table{
+	width:100%;
+}
+.first-row{
+	background-color:cadetblue;
+	color:white;
+}
+
+.third-row{
+	background-color:grey;
+}
+
+.fifth-row{
+	background-color:grey;
+}
+
